@@ -1,5 +1,5 @@
 <?php
-header("Location:index.html");
+header("location:index.html", true, 301));
 $ADEx = "masukan.php";
 $ADEy = $_POST['name'];
 $ADEz = $_POST['email'];
