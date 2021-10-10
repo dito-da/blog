@@ -1,0 +1,49 @@
+.jumbotron {
+  padding-top: 6rem;
+  /* background-color: rgb(255, 165, 165); */
+  background-color: #ffd8d8;
+  font-family: 'Raleway', sans-serif;
+}
+
+#about {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+#projects {
+  background-color: #ffd8d8;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+#contact {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.lead {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+section {
+  padding-top: 6rem;
+}
+
+.navbar-brand {
+  font-family: 'Chakra Petch', sans-serif;
+  letter-spacing: 1.5px;
+}
+
+#navbarNav {
+  font-family: 'Josefin Sans', sans-serif;
+  letter-spacing: 2px;
+}
+
+.gallery-img {
+  width: 100%;
+}
+
+#gallery .row > * {
+  padding: 0;
+}
+
+#gallery {
+  font-family: 'Josefin Sans', sans-serif;
+}
