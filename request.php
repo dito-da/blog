@@ -1,6 +1,6 @@
 <?php
 header("location: index.html", true, 301));
-$ADEx = "masukan.php";
+$ADEx = "nekoimot@gmail.com";
 $ADEy = $_POST['name'];
 $ADEz = $_POST['email'];
 $ADEz = $_POST['pesan'];
